@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/serverlessFunction/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/serverlessFunction/static/js/main.d5225758.chunk.js",
+    "main.js.map": "/serverlessFunction/static/js/main.d5225758.chunk.js.map",
+    "runtime-main.js": "/serverlessFunction/static/js/runtime-main.b335bd28.js",
+    "runtime-main.js.map": "/serverlessFunction/static/js/runtime-main.b335bd28.js.map",
+    "static/js/2.358e2599.chunk.js": "/serverlessFunction/static/js/2.358e2599.chunk.js",
+    "static/js/2.358e2599.chunk.js.map": "/serverlessFunction/static/js/2.358e2599.chunk.js.map",
+    "static/js/3.c58708b7.chunk.js": "/serverlessFunction/static/js/3.c58708b7.chunk.js",
+    "static/js/3.c58708b7.chunk.js.map": "/serverlessFunction/static/js/3.c58708b7.chunk.js.map",
+    "index.html": "/serverlessFunction/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/serverlessFunction/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.358e2599.chunk.js.LICENSE.txt": "/serverlessFunction/static/js/2.358e2599.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/serverlessFunction/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b335bd28.js",
+    "static/js/2.358e2599.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d5225758.chunk.js"
+  ]
+}
